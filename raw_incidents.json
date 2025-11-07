@@ -1,0 +1,1002 @@
+[
+  {
+    "incident_id": "INC-2024-1000",
+    "type": "Malware",
+    "severity": "Medium",
+    "status": "In Progress",
+    "timestamp": "2025-10-17 16:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 7.13,
+    "cost_impact": 14434
+  },
+  {
+    "incident_id": "INC-2024-1001",
+    "type": "Insider Threat",
+    "severity": "Critical",
+    "status": "Closed",
+    "timestamp": "2025-10-15 20:01:10",
+    "affected_systems": 3,
+    "response_time_hours": 1.92,
+    "cost_impact": 29657
+  },
+  {
+    "incident_id": "INC-2024-1002",
+    "type": "Zero-Day Exploit",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-30 03:01:10",
+    "affected_systems": 46,
+    "response_time_hours": 31.37,
+    "cost_impact": 72426
+  },
+  {
+    "incident_id": "INC-2024-1003",
+    "type": "Brute Force",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-24 12:01:10",
+    "affected_systems": 49,
+    "response_time_hours": 38.78,
+    "cost_impact": 92506
+  },
+  {
+    "incident_id": "INC-2024-1004",
+    "type": "Ransomware",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-10-24 09:01:10",
+    "affected_systems": 49,
+    "response_time_hours": 16.49,
+    "cost_impact": 13156
+  },
+  {
+    "incident_id": "INC-2024-1005",
+    "type": "Unauthorized Access",
+    "severity": "Medium",
+    "status": "Resolved",
+    "timestamp": "2025-10-25 16:01:10",
+    "affected_systems": 3,
+    "response_time_hours": 35.16,
+    "cost_impact": 71284
+  },
+  {
+    "incident_id": "INC-2024-1006",
+    "type": "Phishing",
+    "severity": "Medium",
+    "status": "Resolved",
+    "timestamp": "2025-11-03 07:01:10",
+    "affected_systems": 37,
+    "response_time_hours": 9.63,
+    "cost_impact": 10116
+  },
+  {
+    "incident_id": "INC-2024-1007",
+    "type": "Data Breach",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-11-04 22:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 41.66,
+    "cost_impact": 50823
+  },
+  {
+    "incident_id": "INC-2024-1008",
+    "type": "Unauthorized Access",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-29 05:01:10",
+    "affected_systems": 23,
+    "response_time_hours": 10.45,
+    "cost_impact": 35993
+  },
+  {
+    "incident_id": "INC-2024-1009",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-10-14 22:01:10",
+    "affected_systems": 11,
+    "response_time_hours": 22.46,
+    "cost_impact": 36382
+  },
+  {
+    "incident_id": "INC-2024-1010",
+    "type": "Insider Threat",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-07 23:01:10",
+    "affected_systems": 50,
+    "response_time_hours": 37.36,
+    "cost_impact": 31021
+  },
+  {
+    "incident_id": "INC-2024-1011",
+    "type": "Unauthorized Access",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-11 18:01:10",
+    "affected_systems": 5,
+    "response_time_hours": 10.52,
+    "cost_impact": 75341
+  },
+  {
+    "incident_id": "INC-2024-1012",
+    "type": "Unauthorized Access",
+    "severity": "High",
+    "status": "Closed",
+    "timestamp": "2025-10-08 21:01:10",
+    "affected_systems": 26,
+    "response_time_hours": 42.52,
+    "cost_impact": 85259
+  },
+  {
+    "incident_id": "INC-2024-1013",
+    "type": "Ransomware",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-10-23 15:01:10",
+    "affected_systems": 48,
+    "response_time_hours": 27.16,
+    "cost_impact": 35438
+  },
+  {
+    "incident_id": "INC-2024-1014",
+    "type": "SQL Injection",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-14 01:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 47.87,
+    "cost_impact": 19131
+  },
+  {
+    "incident_id": "INC-2024-1015",
+    "type": "Phishing",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-10-21 04:01:10",
+    "affected_systems": 10,
+    "response_time_hours": 30.3,
+    "cost_impact": 90192
+  },
+  {
+    "incident_id": "INC-2024-1016",
+    "type": "Phishing",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-24 00:01:10",
+    "affected_systems": 39,
+    "response_time_hours": 47.82,
+    "cost_impact": 70352
+  },
+  {
+    "incident_id": "INC-2024-1017",
+    "type": "Malware",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-29 02:01:10",
+    "affected_systems": 50,
+    "response_time_hours": 30.95,
+    "cost_impact": 15621
+  },
+  {
+    "incident_id": "INC-2024-1018",
+    "type": "DDoS",
+    "severity": "Low",
+    "status": "Open",
+    "timestamp": "2025-10-28 06:01:10",
+    "affected_systems": 47,
+    "response_time_hours": 42.1,
+    "cost_impact": 35522
+  },
+  {
+    "incident_id": "INC-2024-1019",
+    "type": "Insider Threat",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-21 14:01:10",
+    "affected_systems": 41,
+    "response_time_hours": 24.61,
+    "cost_impact": 27071
+  },
+  {
+    "incident_id": "INC-2024-1020",
+    "type": "DDoS",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-11-02 08:01:10",
+    "affected_systems": 32,
+    "response_time_hours": 1.43,
+    "cost_impact": 48576
+  },
+  {
+    "incident_id": "INC-2024-1021",
+    "type": "Data Breach",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-09 10:01:10",
+    "affected_systems": 37,
+    "response_time_hours": 45.48,
+    "cost_impact": 12226
+  },
+  {
+    "incident_id": "INC-2024-1022",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-10-14 04:01:10",
+    "affected_systems": 43,
+    "response_time_hours": 23.08,
+    "cost_impact": 73063
+  },
+  {
+    "incident_id": "INC-2024-1023",
+    "type": "Insider Threat",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-11-01 11:01:10",
+    "affected_systems": 35,
+    "response_time_hours": 36.38,
+    "cost_impact": 91422
+  },
+  {
+    "incident_id": "INC-2024-1024",
+    "type": "Ransomware",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-30 21:01:10",
+    "affected_systems": 29,
+    "response_time_hours": 43.23,
+    "cost_impact": 60177
+  },
+  {
+    "incident_id": "INC-2024-1025",
+    "type": "Data Breach",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-11-03 12:01:10",
+    "affected_systems": 2,
+    "response_time_hours": 28.44,
+    "cost_impact": 31161
+  },
+  {
+    "incident_id": "INC-2024-1026",
+    "type": "Malware",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-10-19 12:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 3.7,
+    "cost_impact": 5117
+  },
+  {
+    "incident_id": "INC-2024-1027",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-10 09:01:10",
+    "affected_systems": 43,
+    "response_time_hours": 23.56,
+    "cost_impact": 71678
+  },
+  {
+    "incident_id": "INC-2024-1028",
+    "type": "Zero-Day Exploit",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-11-01 20:01:10",
+    "affected_systems": 31,
+    "response_time_hours": 38.86,
+    "cost_impact": 25957
+  },
+  {
+    "incident_id": "INC-2024-1029",
+    "type": "SQL Injection",
+    "severity": "Medium",
+    "status": "Closed",
+    "timestamp": "2025-11-03 16:01:10",
+    "affected_systems": 27,
+    "response_time_hours": 22.68,
+    "cost_impact": 96561
+  },
+  {
+    "incident_id": "INC-2024-1030",
+    "type": "Phishing",
+    "severity": "Critical",
+    "status": "Closed",
+    "timestamp": "2025-11-04 22:01:10",
+    "affected_systems": 47,
+    "response_time_hours": 16.62,
+    "cost_impact": 15322
+  },
+  {
+    "incident_id": "INC-2024-1031",
+    "type": "Data Breach",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-10-30 13:01:10",
+    "affected_systems": 28,
+    "response_time_hours": 9.22,
+    "cost_impact": 61637
+  },
+  {
+    "incident_id": "INC-2024-1032",
+    "type": "Brute Force",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-10-30 17:01:10",
+    "affected_systems": 42,
+    "response_time_hours": 47.97,
+    "cost_impact": 2934
+  },
+  {
+    "incident_id": "INC-2024-1033",
+    "type": "DDoS",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-11-04 12:01:10",
+    "affected_systems": 31,
+    "response_time_hours": 10.65,
+    "cost_impact": 53565
+  },
+  {
+    "incident_id": "INC-2024-1034",
+    "type": "DDoS",
+    "severity": "Low",
+    "status": "Open",
+    "timestamp": "2025-10-09 18:01:10",
+    "affected_systems": 25,
+    "response_time_hours": 13.1,
+    "cost_impact": 60638
+  },
+  {
+    "incident_id": "INC-2024-1035",
+    "type": "Insider Threat",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-10-28 06:01:10",
+    "affected_systems": 13,
+    "response_time_hours": 14.59,
+    "cost_impact": 8665
+  },
+  {
+    "incident_id": "INC-2024-1036",
+    "type": "Insider Threat",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-18 20:01:10",
+    "affected_systems": 4,
+    "response_time_hours": 2.88,
+    "cost_impact": 63493
+  },
+  {
+    "incident_id": "INC-2024-1037",
+    "type": "DDoS",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-10-21 03:01:10",
+    "affected_systems": 12,
+    "response_time_hours": 3.75,
+    "cost_impact": 9907
+  },
+  {
+    "incident_id": "INC-2024-1038",
+    "type": "SQL Injection",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-16 12:01:10",
+    "affected_systems": 38,
+    "response_time_hours": 28.74,
+    "cost_impact": 82183
+  },
+  {
+    "incident_id": "INC-2024-1039",
+    "type": "Zero-Day Exploit",
+    "severity": "Medium",
+    "status": "Resolved",
+    "timestamp": "2025-11-04 06:01:10",
+    "affected_systems": 14,
+    "response_time_hours": 32.31,
+    "cost_impact": 42180
+  },
+  {
+    "incident_id": "INC-2024-1040",
+    "type": "SQL Injection",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-30 11:01:10",
+    "affected_systems": 30,
+    "response_time_hours": 15.52,
+    "cost_impact": 99548
+  },
+  {
+    "incident_id": "INC-2024-1041",
+    "type": "Malware",
+    "severity": "Low",
+    "status": "Open",
+    "timestamp": "2025-10-08 17:01:10",
+    "affected_systems": 5,
+    "response_time_hours": 26.04,
+    "cost_impact": 67307
+  },
+  {
+    "incident_id": "INC-2024-1042",
+    "type": "Unauthorized Access",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-29 15:01:10",
+    "affected_systems": 24,
+    "response_time_hours": 14.04,
+    "cost_impact": 58433
+  },
+  {
+    "incident_id": "INC-2024-1043",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-11 02:01:10",
+    "affected_systems": 43,
+    "response_time_hours": 5.42,
+    "cost_impact": 18601
+  },
+  {
+    "incident_id": "INC-2024-1044",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-29 16:01:10",
+    "affected_systems": 19,
+    "response_time_hours": 29.23,
+    "cost_impact": 95058
+  },
+  {
+    "incident_id": "INC-2024-1045",
+    "type": "Ransomware",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-27 13:01:10",
+    "affected_systems": 4,
+    "response_time_hours": 4.88,
+    "cost_impact": 56518
+  },
+  {
+    "incident_id": "INC-2024-1046",
+    "type": "Malware",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-11 11:01:10",
+    "affected_systems": 50,
+    "response_time_hours": 6.71,
+    "cost_impact": 35335
+  },
+  {
+    "incident_id": "INC-2024-1047",
+    "type": "Brute Force",
+    "severity": "Low",
+    "status": "Open",
+    "timestamp": "2025-10-31 20:01:10",
+    "affected_systems": 8,
+    "response_time_hours": 4.07,
+    "cost_impact": 91573
+  },
+  {
+    "incident_id": "INC-2024-1048",
+    "type": "Insider Threat",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-09 15:01:10",
+    "affected_systems": 38,
+    "response_time_hours": 26.74,
+    "cost_impact": 57333
+  },
+  {
+    "incident_id": "INC-2024-1049",
+    "type": "Ransomware",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-11-02 18:01:10",
+    "affected_systems": 23,
+    "response_time_hours": 10.48,
+    "cost_impact": 33706
+  },
+  {
+    "incident_id": "INC-2024-1050",
+    "type": "Unauthorized Access",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-10-16 16:01:10",
+    "affected_systems": 16,
+    "response_time_hours": 41.57,
+    "cost_impact": 24206
+  },
+  {
+    "incident_id": "INC-2024-1051",
+    "type": "Malware",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-09 06:01:10",
+    "affected_systems": 27,
+    "response_time_hours": 38.61,
+    "cost_impact": 97345
+  },
+  {
+    "incident_id": "INC-2024-1052",
+    "type": "Ransomware",
+    "severity": "High",
+    "status": "Open",
+    "timestamp": "2025-10-12 12:01:10",
+    "affected_systems": 25,
+    "response_time_hours": 41.93,
+    "cost_impact": 62694
+  },
+  {
+    "incident_id": "INC-2024-1053",
+    "type": "Brute Force",
+    "severity": "Medium",
+    "status": "Resolved",
+    "timestamp": "2025-10-30 13:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 11.09,
+    "cost_impact": 87511
+  },
+  {
+    "incident_id": "INC-2024-1054",
+    "type": "Unauthorized Access",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-31 07:01:10",
+    "affected_systems": 50,
+    "response_time_hours": 13.76,
+    "cost_impact": 85080
+  },
+  {
+    "incident_id": "INC-2024-1055",
+    "type": "Insider Threat",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-21 07:01:10",
+    "affected_systems": 8,
+    "response_time_hours": 42.16,
+    "cost_impact": 35237
+  },
+  {
+    "incident_id": "INC-2024-1056",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-11-01 01:01:10",
+    "affected_systems": 39,
+    "response_time_hours": 21.14,
+    "cost_impact": 96491
+  },
+  {
+    "incident_id": "INC-2024-1057",
+    "type": "SQL Injection",
+    "severity": "Critical",
+    "status": "Closed",
+    "timestamp": "2025-10-12 09:01:10",
+    "affected_systems": 37,
+    "response_time_hours": 9.53,
+    "cost_impact": 6817
+  },
+  {
+    "incident_id": "INC-2024-1058",
+    "type": "Malware",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-15 06:01:10",
+    "affected_systems": 28,
+    "response_time_hours": 3.82,
+    "cost_impact": 88062
+  },
+  {
+    "incident_id": "INC-2024-1059",
+    "type": "Zero-Day Exploit",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-08 09:01:10",
+    "affected_systems": 47,
+    "response_time_hours": 43.25,
+    "cost_impact": 67469
+  },
+  {
+    "incident_id": "INC-2024-1060",
+    "type": "SQL Injection",
+    "severity": "Medium",
+    "status": "Closed",
+    "timestamp": "2025-10-27 22:01:10",
+    "affected_systems": 45,
+    "response_time_hours": 14.54,
+    "cost_impact": 17683
+  },
+  {
+    "incident_id": "INC-2024-1061",
+    "type": "SQL Injection",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-31 06:01:10",
+    "affected_systems": 26,
+    "response_time_hours": 26.53,
+    "cost_impact": 1053
+  },
+  {
+    "incident_id": "INC-2024-1062",
+    "type": "Data Breach",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-28 10:01:10",
+    "affected_systems": 30,
+    "response_time_hours": 21.48,
+    "cost_impact": 89555
+  },
+  {
+    "incident_id": "INC-2024-1063",
+    "type": "Brute Force",
+    "severity": "High",
+    "status": "Open",
+    "timestamp": "2025-10-31 03:01:10",
+    "affected_systems": 19,
+    "response_time_hours": 24.98,
+    "cost_impact": 83960
+  },
+  {
+    "incident_id": "INC-2024-1064",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-18 09:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 38.81,
+    "cost_impact": 20313
+  },
+  {
+    "incident_id": "INC-2024-1065",
+    "type": "Data Breach",
+    "severity": "Low",
+    "status": "Open",
+    "timestamp": "2025-11-06 18:01:10",
+    "affected_systems": 30,
+    "response_time_hours": 20.19,
+    "cost_impact": 83544
+  },
+  {
+    "incident_id": "INC-2024-1066",
+    "type": "SQL Injection",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-19 13:01:10",
+    "affected_systems": 16,
+    "response_time_hours": 7.51,
+    "cost_impact": 91128
+  },
+  {
+    "incident_id": "INC-2024-1067",
+    "type": "SQL Injection",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-11-06 16:01:10",
+    "affected_systems": 45,
+    "response_time_hours": 25.1,
+    "cost_impact": 7582
+  },
+  {
+    "incident_id": "INC-2024-1068",
+    "type": "Phishing",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-10-20 12:01:10",
+    "affected_systems": 30,
+    "response_time_hours": 32.21,
+    "cost_impact": 74259
+  },
+  {
+    "incident_id": "INC-2024-1069",
+    "type": "Brute Force",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-18 09:01:10",
+    "affected_systems": 11,
+    "response_time_hours": 35.82,
+    "cost_impact": 63216
+  },
+  {
+    "incident_id": "INC-2024-1070",
+    "type": "Data Breach",
+    "severity": "Medium",
+    "status": "Closed",
+    "timestamp": "2025-10-23 11:01:10",
+    "affected_systems": 41,
+    "response_time_hours": 11.86,
+    "cost_impact": 58654
+  },
+  {
+    "incident_id": "INC-2024-1071",
+    "type": "Ransomware",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-11-03 21:01:10",
+    "affected_systems": 22,
+    "response_time_hours": 15.69,
+    "cost_impact": 71798
+  },
+  {
+    "incident_id": "INC-2024-1072",
+    "type": "DDoS",
+    "severity": "High",
+    "status": "Closed",
+    "timestamp": "2025-11-04 15:01:10",
+    "affected_systems": 45,
+    "response_time_hours": 7.76,
+    "cost_impact": 29043
+  },
+  {
+    "incident_id": "INC-2024-1073",
+    "type": "SQL Injection",
+    "severity": "Medium",
+    "status": "Closed",
+    "timestamp": "2025-11-04 06:01:10",
+    "affected_systems": 27,
+    "response_time_hours": 3.46,
+    "cost_impact": 56069
+  },
+  {
+    "incident_id": "INC-2024-1074",
+    "type": "Malware",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-25 01:01:10",
+    "affected_systems": 1,
+    "response_time_hours": 45.28,
+    "cost_impact": 40139
+  },
+  {
+    "incident_id": "INC-2024-1075",
+    "type": "SQL Injection",
+    "severity": "High",
+    "status": "Closed",
+    "timestamp": "2025-10-13 07:01:10",
+    "affected_systems": 15,
+    "response_time_hours": 13.46,
+    "cost_impact": 64654
+  },
+  {
+    "incident_id": "INC-2024-1076",
+    "type": "Unauthorized Access",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-11-06 07:01:10",
+    "affected_systems": 30,
+    "response_time_hours": 44.18,
+    "cost_impact": 82560
+  },
+  {
+    "incident_id": "INC-2024-1077",
+    "type": "SQL Injection",
+    "severity": "Critical",
+    "status": "Open",
+    "timestamp": "2025-10-20 19:01:10",
+    "affected_systems": 42,
+    "response_time_hours": 20.86,
+    "cost_impact": 61515
+  },
+  {
+    "incident_id": "INC-2024-1078",
+    "type": "Ransomware",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-11-01 18:01:10",
+    "affected_systems": 14,
+    "response_time_hours": 22.1,
+    "cost_impact": 45236
+  },
+  {
+    "incident_id": "INC-2024-1079",
+    "type": "Ransomware",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-13 07:01:10",
+    "affected_systems": 6,
+    "response_time_hours": 22.84,
+    "cost_impact": 99176
+  },
+  {
+    "incident_id": "INC-2024-1080",
+    "type": "Unauthorized Access",
+    "severity": "High",
+    "status": "Open",
+    "timestamp": "2025-10-20 18:01:10",
+    "affected_systems": 50,
+    "response_time_hours": 45.97,
+    "cost_impact": 6276
+  },
+  {
+    "incident_id": "INC-2024-1081",
+    "type": "Data Breach",
+    "severity": "High",
+    "status": "Open",
+    "timestamp": "2025-10-13 19:01:10",
+    "affected_systems": 40,
+    "response_time_hours": 7.74,
+    "cost_impact": 17544
+  },
+  {
+    "incident_id": "INC-2024-1082",
+    "type": "Phishing",
+    "severity": "High",
+    "status": "Closed",
+    "timestamp": "2025-10-21 22:01:10",
+    "affected_systems": 45,
+    "response_time_hours": 12.67,
+    "cost_impact": 49351
+  },
+  {
+    "incident_id": "INC-2024-1083",
+    "type": "Zero-Day Exploit",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-11-01 00:01:10",
+    "affected_systems": 20,
+    "response_time_hours": 5.63,
+    "cost_impact": 4365
+  },
+  {
+    "incident_id": "INC-2024-1084",
+    "type": "Zero-Day Exploit",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-08 10:01:10",
+    "affected_systems": 46,
+    "response_time_hours": 9.92,
+    "cost_impact": 78607
+  },
+  {
+    "incident_id": "INC-2024-1085",
+    "type": "Data Breach",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-14 23:01:10",
+    "affected_systems": 44,
+    "response_time_hours": 29.02,
+    "cost_impact": 16866
+  },
+  {
+    "incident_id": "INC-2024-1086",
+    "type": "Malware",
+    "severity": "Medium",
+    "status": "Closed",
+    "timestamp": "2025-10-12 01:01:10",
+    "affected_systems": 43,
+    "response_time_hours": 18.1,
+    "cost_impact": 67317
+  },
+  {
+    "incident_id": "INC-2024-1087",
+    "type": "Malware",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-17 09:01:10",
+    "affected_systems": 7,
+    "response_time_hours": 21.09,
+    "cost_impact": 48472
+  },
+  {
+    "incident_id": "INC-2024-1088",
+    "type": "DDoS",
+    "severity": "Low",
+    "status": "In Progress",
+    "timestamp": "2025-10-17 05:01:10",
+    "affected_systems": 47,
+    "response_time_hours": 25.28,
+    "cost_impact": 86256
+  },
+  {
+    "incident_id": "INC-2024-1089",
+    "type": "Insider Threat",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-29 00:01:10",
+    "affected_systems": 28,
+    "response_time_hours": 39.72,
+    "cost_impact": 78656
+  },
+  {
+    "incident_id": "INC-2024-1090",
+    "type": "Data Breach",
+    "severity": "Critical",
+    "status": "Resolved",
+    "timestamp": "2025-10-29 09:01:10",
+    "affected_systems": 29,
+    "response_time_hours": 12.08,
+    "cost_impact": 61910
+  },
+  {
+    "incident_id": "INC-2024-1091",
+    "type": "SQL Injection",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-19 00:01:10",
+    "affected_systems": 32,
+    "response_time_hours": 40.92,
+    "cost_impact": 24834
+  },
+  {
+    "incident_id": "INC-2024-1092",
+    "type": "Unauthorized Access",
+    "severity": "Medium",
+    "status": "Resolved",
+    "timestamp": "2025-10-22 13:01:10",
+    "affected_systems": 18,
+    "response_time_hours": 42.32,
+    "cost_impact": 92905
+  },
+  {
+    "incident_id": "INC-2024-1093",
+    "type": "Insider Threat",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-09 11:01:10",
+    "affected_systems": 6,
+    "response_time_hours": 11.96,
+    "cost_impact": 54271
+  },
+  {
+    "incident_id": "INC-2024-1094",
+    "type": "Data Breach",
+    "severity": "Low",
+    "status": "Closed",
+    "timestamp": "2025-10-22 02:01:10",
+    "affected_systems": 29,
+    "response_time_hours": 38.16,
+    "cost_impact": 13196
+  },
+  {
+    "incident_id": "INC-2024-1095",
+    "type": "SQL Injection",
+    "severity": "High",
+    "status": "Resolved",
+    "timestamp": "2025-10-28 12:01:10",
+    "affected_systems": 43,
+    "response_time_hours": 28.12,
+    "cost_impact": 63031
+  },
+  {
+    "incident_id": "INC-2024-1096",
+    "type": "Unauthorized Access",
+    "severity": "Low",
+    "status": "Resolved",
+    "timestamp": "2025-10-20 03:01:10",
+    "affected_systems": 23,
+    "response_time_hours": 33.89,
+    "cost_impact": 36509
+  },
+  {
+    "incident_id": "INC-2024-1097",
+    "type": "Data Breach",
+    "severity": "Critical",
+    "status": "In Progress",
+    "timestamp": "2025-10-28 11:01:10",
+    "affected_systems": 21,
+    "response_time_hours": 6.18,
+    "cost_impact": 71236
+  },
+  {
+    "incident_id": "INC-2024-1098",
+    "type": "DDoS",
+    "severity": "High",
+    "status": "In Progress",
+    "timestamp": "2025-10-06 21:01:10",
+    "affected_systems": 48,
+    "response_time_hours": 23.5,
+    "cost_impact": 95972
+  },
+  {
+    "incident_id": "INC-2024-1099",
+    "type": "Zero-Day Exploit",
+    "severity": "Medium",
+    "status": "Open",
+    "timestamp": "2025-10-19 03:01:10",
+    "affected_systems": 13,
+    "response_time_hours": 14.57,
+    "cost_impact": 48301
+  }
+]
