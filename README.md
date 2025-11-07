@@ -21,6 +21,28 @@ Analyzes 100 security incidents showing:
 - Trends over 30 days
 - Interactive visualizations
 
+  ## 📸 Dashboard Preview
+
+### Full Dashboard View
+![Dashboard Overview](dashboard-full.png)
+
+The dashboard shows real-time metrics and interactive visualizations for 100 security incidents.
+
+### Severity Distribution Chart
+![Severity Chart](severity-chart.png)
+
+Color-coded donut chart showing breakdown of Critical (Red), High (Orange), Medium (Yellow), and Low (Green) severity incidents.
+
+### Incident Timeline
+![Timeline Chart](timeline-chart.png)
+
+30-day trend analysis showing incident volume over time.
+
+---
+
+💡 **Note:** The full interactive dashboard runs locally. During interviews, I can screen share the live version with hover interactions, zoom capabilities, and real-time filtering.
+```
+
 ## 🚀 Quick Start
 ```bash
 # Install dependencies
