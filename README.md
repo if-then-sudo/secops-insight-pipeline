@@ -91,4 +91,4 @@ Most candidates say "I have PM experience." This project proves it with:
 
 **Built as a portfolio demonstration of PM + Technical capabilities**
 
-[Your Name] | [Your LinkedIn] | [Your Email]
+SudoChef | sudochef.me 
